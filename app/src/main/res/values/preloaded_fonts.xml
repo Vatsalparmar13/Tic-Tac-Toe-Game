@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_kanadaka</item>
+        <item>@font/hanuman_bold</item>
+        <item>@font/henny_penny</item>
+        <item>@font/honk</item>
+        <item>@font/lemon</item>
+        <item>@font/lobster</item>
+    </array>
+</resources>
